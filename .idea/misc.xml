@@ -20,6 +20,7 @@
         <option value="$PROJECT_DIR$/10-BackEnd/pom.xml" />
         <option value="$PROJECT_DIR$/12-Spring-Data-JPA/pom.xml" />
         <option value="$PROJECT_DIR$/Z13-Spring-Boot/pom.xml" />
+        <option value="$PROJECT_DIR$/Z14-Spring-Security/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
