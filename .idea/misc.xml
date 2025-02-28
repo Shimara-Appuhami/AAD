@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/01-Spring_Core/pom.xml" />
+        <option value="$PROJECT_DIR$/02-Spring_bean_life_cycle/pom.xml" />
+        <option value="$PROJECT_DIR$/02-Spring_bean_life_cycle/03-Spring-DI/pom.xml" />
+        <option value="$PROJECT_DIR$/03-Spring-DI/pom.xml" />
+        <option value="$PROJECT_DIR$/04-FullMode-VS-LightMode/pom.xml" />
+        <option value="$PROJECT_DIR$/03-Spring-DI/04-FullMode-VS-LightMode/pom.xml" />
+        <option value="$PROJECT_DIR$/04-FullMode-vsLightMode/pom.xml" />
+        <option value="$PROJECT_DIR$/05-Configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/06-Runtime-Value-Injection/pom.xml" />
+        <option value="$PROJECT_DIR$/07-Spring-Environment/pom.xml" />
+        <option value="$PROJECT_DIR$/08-Spring-Web-MVC/pom.xml" />
+        <option value="$PROJECT_DIR$/09-Rest-Controller/pom.xml" />
+        <option value="$PROJECT_DIR$/08-Spring-Web-MVC/10-BackEnd/pom.xml" />
+        <option value="$PROJECT_DIR$/10-BackEnd/pom.xml" />
+        <option value="$PROJECT_DIR$/12-Spring-Data-JPA/pom.xml" />
+        <option value="$PROJECT_DIR$/Z13-Spring-Boot/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/04-FullMode-VS-LightMode/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

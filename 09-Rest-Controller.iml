@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="context.xml" url="file://$MODULE_DIR$/09-Rest-Controller/META-INF/context.xml" />
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/09-Rest-Controller/web/WEB-INF/web.xml" />
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/09-Rest-Controller/web/WEB-INF/web.xml" />
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/09-Rest-Controller/web/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/09-Rest-Controller/web" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/09-Rest-Controller/src/main/java" />
+          <root url="file://$MODULE_DIR$/09-Rest-Controller/src/main/resources" />
+          <root url="file://$MODULE_DIR$/09-Rest-Controller/target/generated-sources/annotations" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+  </component>
+</module>
